@@ -7,3 +7,8 @@ function monstraSr(Snome) {
 }
 
 // Fim
+
+c
+
+
+const p = 53
